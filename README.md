@@ -1,18 +1,26 @@
-# This is a title
-## This is second title
+# Saucedemo Automation with Cypress
 <br>
+## Pre-Requisites:
+- Node.js and Cypress already installed in system
 
 ## First clone this project
 ```
 git clone https://github.com/atrahman23/sauceautomation.git
 ```
 
-## Go to project directory
-```
-cd directory
-```
+## Open project in code editor
 
 ## Install node modules
 ```
-npm install
+npm install cypress
 ```
+
+## Start cypress
+```
+npx cypress open
+```
+## Watch the video and delete the folder
+- video: https://www.youtube.com/watch?v=AdcBb6CAofs
+- NB: Issue found while running the cypress automation for saucedemo.com after researching I found the solution online
+
+## Run the spec files
