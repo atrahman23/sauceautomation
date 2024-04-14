@@ -1,5 +1,5 @@
 # Saucedemo Automation with Cypress
-<br>
+
 ## Pre-Requisites:
 - Node.js and Cypress already installed in system
 
@@ -24,3 +24,5 @@ npx cypress open
 - NB: Issue found while running the cypress automation for saucedemo.com after researching I found the solution online
 
 ## Run the spec files
+- ch1.cy.js
+- ch2.cy.js
